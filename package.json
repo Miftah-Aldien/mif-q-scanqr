@@ -1,0 +1,1 @@
+{ "name": "mif-q-scanqr", "version": "1.0.0", "private": true, "scripts": { "build": "echo build" }, "dependencies": { "@capacitor/core": "^5.7.0", "@capacitor/cli": "^5.7.0", "@capacitor/android": "^5.7.0" } }
